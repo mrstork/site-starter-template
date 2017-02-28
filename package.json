@@ -1,6 +1,7 @@
 {
   "name": "site-starter-template",
   "author": "Mateusz Bocian",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.1",
