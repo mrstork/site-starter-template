@@ -1,9 +1,9 @@
 # Site Starter Template
 
 A repository to clone whenever I start a new project or want to fiddle around with something.
-Whenever I want to fiddle around with something on the web I often have to set up the folder in the same way ever time.
-I will keep it up to date with newer versions of things and lint rules I adapt into my work.
-Will include javascript at some point.
+Whenever I start I tend to set everything up the same way and it wastes a lot of time.
+This repository gives me a starting point so I can jump right into the good stuff.
+I will keep it up to date with newer versions of things and new lint rules I adapt into my work.
 
 ## Tools Included
 
